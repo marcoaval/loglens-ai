@@ -1,0 +1,10 @@
+# Raw log exports (only the redacted report is published)
+*.csv
+*.evtx
+*.log
+*_log.txt
+# Secrets
+.env
+*.key
+.ipynb_checkpoints/
+__pycache__/
